@@ -7,7 +7,8 @@
 
 ## ***╵𒄉〢・A Little About Me!*** 👦
 ╵➠〢・My full name is **Itish Srivastava**. <br/>
-╵➠〢・Interested in learning **App Development**, **Project Management**, **Interactive Web Development** and **Cloud Services**. <br/>
+╵➠〢・Interested in learning **App Development**, **Project Management**, **Interactive Web Development** 
+and **Cloud Services**. <br/>
 ╵➠〢・Usually work using **Python**, **C** and **Javascript**. <br/>
 ╵➠〢・Currently learning **Javascript**, **Kotlin** and **Java**. <br/>
 ╵➠〢・Looking to contribute in **Open Source Projects**. <br/>
