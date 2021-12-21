@@ -1,3 +1,6 @@
+<img align="right" alt="mybanner" src="https://i.postimg.cc/QCB0VzR6/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner.png"/>
+<br/>
+
 # **Bonjour je suis Itish!** 🙂
 <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" />
 
@@ -11,7 +14,7 @@
 <br/>
 
 ## ***╵𒄉〢・My Stats!*** 👀
-[![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=swift)](https://google.com)
 <br/>
 <br/>
 
