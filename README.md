@@ -1,39 +1,52 @@
-<img align="center" alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
-<br>
-<h1 align="center"><b/>Bonjour je suis Itish! <img width="34px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h1>
-<p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /></p>
-ㅤ
-
-## ***╵𒄉〢・A Little About Me!*** 👦
-╵➠〢・👦 My full name is ***Itish Srivastava***. <br/>
-╵➠〢・📖 Interested in learning ***App Development***, ***Project Management***, ***Interactive Web Development*** 
-and ***Cloud Services***. <br/>
-╵➠〢・🧰 Usually work using ***Python***, ***C*** and ***Javascript***. <br/>
-╵➠〢・📂 Currently learning ***Javascript***, ***Kotlin*** and ***Java***. <br/>
-╵➠〢・🗄️ Looking to contribute in ***Open Source Projects***. <br/>
-╵➠〢・☎️ You can connect with me on ***Gmail***:-**ItishsrivastavaKIIT@gmail.com**.<br/>
+-------
 <br/>
+<img align="center" alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
+<br/>
+
+-------
+<h1 align="center"><b/>Bonjour je suis Itish!</h1>
+<p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /><br/><br/>
+</p>
+
+  <h2 align="left"><b><i>╵𒄉〢・A Little About Me!</b></i> 🤩 </h2>
+  <p align="left">
+  ╵➠〢・👦 My full name is <b><i>Itish Srivastava</b></i>. <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>  <br/>
+  ╵➠〢・🧓 I turned <b>18</b> this year. <br/>
+  ╵➠〢・🎂 Wish me on <b>26th Feb</b>. <br/>
+  ╵➠〢・💠 Interested in learning <b>App Development.</b></br>
+  ╵➠〢・👨‍⚖️ Interested in learning <b>Project Management.</b><br/>
+  ╵➠〢・🕸️ Interested in learning <b>Interactive Web Development.</b><br/>
+  ╵➠〢・☁️ Interested in learning <b>Cloud Services.</b><br/>
+  ╵➠〢・🧰 Usually work using <b>Python</b>, <b>C</b> and <b>Javascript</b>. <br/>
+  ╵➠〢・📂 Currently learning <b>Javascript</b>, <b>Kotlin</b> and <b>Java</b>. <br/>
+  ╵➠〢・🗄️ Looking to contribute in <b>Open Source Projects</b>. <br/>
+  ╵➠〢・☎️ Message me on <b>Gmail</b>:- <b><a href="ItishsrivastavaKIIT@gmail.com">ItishsrivastavaKIIT@gmail.com</a></b>.</p>
+  <br/>
 
 ## ***╵𒄉〢・My Stats!*** 👀
-[![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=swift)](https://google.com)
+[![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave)](https://google.com)
 <br/>
-<br/>
+<br/><br/>
 
 ## ***╵𒄉〢・Languages I Use The Most!*** 🤓
 ![Top Langs](https://i.postimg.cc/W3sD020t/save.png)
 <br/>
 <br/>
+<br/>
 
 ## ***╵𒄉〢・My Contributions!*** ⚔️
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;">
-<br/>
+<p align="left">
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
+</p>
 <br/>
 
-## ***╵𒄉〢・Here is a random joke that'll make you laugh!*** 😆
-<p align="left"> 
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /) 
-</p> 
+## ***╵𒄉〢・My Trophies!*** 🏆
+<p align="left">
+<img height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=Legendary-Person&show_icons=true&theme=dracula"/>
+  </p><br/>
 <br/> 
+  
+  
 <p align="left">
 <h2><b/><i/>╵𒄉〢・My Tools! 🤙</h2>
 <img align="left" alt="codeSTACKr.com" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -70,4 +83,20 @@ and ***Cloud Services***. <br/>
 [linkedin]: https://www.linkedin.com/in/itish-srivastava-614431229/
 
 ------
-<img align="center" src="https://i.postimg.cc/MT8jPCnQ/Black-And-Orange-Banner-Business-Linked-In-1.png">
+
+<br/><p align="center">
+<img src="https://img.shields.io/badge/Project-Manager-red"/>
+<img src="https://img.shields.io/badge/Developer-blue"/>
+<img src="https://img.shields.io/badge/Programmer-purple"/>
+<img src="https://img.shields.io/badge/Open-Source-neon"/>
+<img src="https://img.shields.io/badge/Google-Cloud-green"/>
+<img src="https://img.shields.io/badge/Data-Visualization-brown"/>
+<img src="https://img.shields.io/badge/Scala-silver"/>
+<img src="https://img.shields.io/badge/DSA-gold"/>
+<img src="https://img.shields.io/badge/GSOC-2022-lightgreen"/></p><br/>
+
+------
+
+<p align="right">
+<img src="https://metrics.lecoq.io/Legendary-Person"/>
+</p>
