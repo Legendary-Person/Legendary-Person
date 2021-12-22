@@ -1,6 +1,5 @@
-<img align="right" alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
+<img align="center" alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
 <br>
-ㅤ
 <h1 align="center"><b/>Bonjour je suis Itish! 🙂</h1>
 <p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /></p>
 ㅤ
