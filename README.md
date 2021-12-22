@@ -97,6 +97,3 @@
 
 ------
 
-<p align="right">
-<img src="https://camo.githubusercontent.com/4cd1c090ea6299a34cf897a59e3c564de70a6cc82b9c9ae39441c2eb08043f39/68747470733a2f2f6d6574726963732e6c65636f712e696f2f4c6567656e646172792d506572736f6e"/>
-</p>
