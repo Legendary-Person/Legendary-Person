@@ -20,7 +20,7 @@ and **Cloud Services**. <br/>
 <br/>
 
 ## ***╵𒄉〢・Languages I Use The Most!*** 🤓
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person)
+![Top Langs](https://i.postimg.cc/W3sD020t/save.png)
 <br/>
 <br/>
 
