@@ -21,7 +21,7 @@ and **Cloud Services**. <br/>
 <br/>
 
 ## ***╵𒄉〢・Languages I Use The Most!***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person&layout=compact)](https://github.com/Legendary-Person/Legendary-Person.github.io/blob/main/Most%20Used%20Languages.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person&layout=compact)](https://github.com/Legendary-Person/Legendary-Person.github.io)
 <br/>
 <br/>
 
