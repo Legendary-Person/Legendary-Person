@@ -4,24 +4,37 @@
 <br/>
 
 -------
-<h1 align="center"><b/>Bonjour je suis Itish!</h1>
+<h1 align="center"><b/>ʙᴏɴᴊᴏᴜʀ ᴊᴇ ꜱᴜɪꜱ ɪᴛɪꜱʜ!</h1>
 <p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /><br/><br/>
 </p>
 
-  <h2 align="left"><b><i>╵𒄉〢・A Little About Me!</b></i> 🤩 </h2>
+  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</b></i> 🤩 </h2>
   <p align="left">
-  ╵➠〢・👦 My full name is <b><i>Itish Srivastava</b></i>. <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>  <br/>
-  ╵➠〢・🧓 I turned <b>18</b> this year. <br/>
-  ╵➠〢・🎂 Wish me on <b>26th Feb</b>. <br/>
-  ╵➠〢・💠 Interested in learning <b>App Development.</b></br>
-  ╵➠〢・👨‍⚖️ Interested in learning <b>Project Management.</b><br/>
-  ╵➠〢・🕸️ Interested in learning <b>Interactive Web Development.</b><br/>
-  ╵➠〢・☁️ Interested in learning <b>Cloud Services.</b><br/>
-  ╵➠〢・🧰 Usually work using <b>Python</b>, <b>C</b> and <b>Javascript</b>. <br/>
-  ╵➠〢・📂 Currently learning <b>Javascript</b>, <b>Kotlin</b> and <b>Java</b>. <br/>
-  ╵➠〢・🗄️ Looking to contribute in <b>Open Source Projects</b>. <br/>
-  ╵➠〢・☎️ Message me on <b>Gmail</b>:- <b><a href="ItishsrivastavaKIIT@gmail.com">ItishsrivastavaKIIT@gmail.com</a></b>.</p>
+  ╵➠〢・👦 ᴍʏ ꜰᴜʟʟ ɴᴀᴍᴇ ɪꜱ <b><i>ɪᴛɪSʜ Sʀɪᴠᴀꜱᴛᴀᴠᴀ</b></i>. <br/>
+  ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
+  ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ ꜰᴇʙ</b>.<br/>
+  ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b></br>
+  ╵➠〢・👨‍⚖️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
+  ╵➠〢・🕸️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
+  ╵➠〢・☁️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴄʟᴏᴜᴅ Sᴇʀᴠɪᴄᴇꜱ.</b><br/>
+  ╵➠〢・🧰 ᴜSᴜᴀʟʟʏ ᴡᴏʀᴋ ᴜSɪɴɢ <b>ᴘʏᴛʜᴏɴ</b>, <b>ᴄ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>. <br/>
+  ╵➠〢・📂 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>, <b>ᴋᴏᴛʟɪɴ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀ</b>. <br/>
+  ╵➠〢・🗄️ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ɪɴ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <br/>
+  ╵➠〢・☎️ ᴍᴇSSᴀɢᴇ ᴍᴇ <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ
+</a></b>.</p>
   <br/>
+  
+  -------
+  <p align="center">
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a> 
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a>
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+  </p>
+  
+  --------
+  
 
 ## ***╵𒄉〢・My Stats!*** 👀
 [![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave)](https://google.com)
