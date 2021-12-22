@@ -26,20 +26,23 @@
   
   -------
   <p align="center">
-  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a> 
-  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a>
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a>
-  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a>
   </p>
   
   --------
-  
+  <br/>
 
 ## ***╵𒄉〢・My Stats!*** 👀
 [![Itish's github stats](https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave)](https://google.com)
 <br/>
 <br/><br/>
+
+--------
+<p align="center">
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a></p>
+  
+  ----------
+  <br/>
 
 ## ***╵𒄉〢・Languages I Use The Most!*** 🤓
 ![Top Langs](https://i.postimg.cc/W3sD020t/save.png)
@@ -47,18 +50,38 @@
 <br/>
 <br/>
 
+------
+<p align="center">
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a></p>
+  
+  -----------
+  <br/>
+
 ## ***╵𒄉〢・My Contributions!*** ⚔️
 <p align="left">
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
 </p>
 <br/>
 
+--------
+<p align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a></p>
+  
+  ------------
+  <br/>
+
 ## ***╵𒄉〢・My Trophies!*** 🏆
 <p align="left">
 <img height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=Legendary-Person&show_icons=true&theme=dracula"/>
   </p><br/>
 <br/> 
+
+------
+<p align="center">
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a></p>
   
+--------
+<br/>  
   
 <p align="left">
 <h2><b/><i/>╵𒄉〢・My Tools! 🤙</h2>
@@ -110,3 +133,8 @@
 
 ------
 
+
+
+<!--
+  
+-->
