@@ -20,17 +20,21 @@ and **Cloud Services**. <br/>
 <br/>
 <br/>
 
-## ***╵𒄉〢・Languages I Use The Most!***
+## ***╵𒄉〢・Languages I Use The Most!*** 🤓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary-Person)
 <br/>
 <br/>
 
-## ***╵𒄉〢・My Contributions!***
+## ***╵𒄉〢・My Contributions!*** ⚔️
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;">
 <br/>
+<br/>
 
-<p align="left">
-<h2><br/><b/><i/>╵𒄉〢・My Tools! 🤙</h2>
+## ***╵𒄉〢・Here is a random joke that'll make you laugh!*** 😆
+<p align="left"> 
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /) 
+</p> <br/> <p align="left">
+<h2><b/><i/>╵𒄉〢・My Tools! 🤙</h2>
 <img align="left" alt="codeSTACKr.com" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="codeSTACKr |" width="30px" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" />
 <img align="left" alt="codeSTACKr |" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -60,12 +64,10 @@ and **Cloud Services**. <br/>
 <br/>
 <br/>
 
-## ***╵𒄉〢・Here is a random joke that'll make you laugh!*** 😆
-<p align="left"> 
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /) 
-</p>
-
 <!-- This section you create this variables that are used above -->
 [website]: http://itishsrivastava.me/
 [instagram]: https://www.instagram.com/just_a_woke_human/
 [linkedin]: https://www.linkedin.com/in/itish-srivastava-614431229/
+
+------
+<img align="center" src="https://i.postimg.cc/MT8jPCnQ/Black-And-Orange-Banner-Business-Linked-In-1.png">
