@@ -50,7 +50,7 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴀɴɢᴜᴀɢᴇs ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
-<img src="https://i.postimg.cc/W3sD020t/save.png"/></p>
+<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/></p>
 <br/>
 <br/>
 
