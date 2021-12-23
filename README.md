@@ -1,6 +1,6 @@
 -------
 <br/>
-<img align="center" alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
+<img alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
 <br/>
 
 -------
@@ -8,9 +8,9 @@
 <p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /><br/><br/>
 </p>
 
-  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</b></i> 🤩 </h2>
+  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
   <p align="left">
-  ╵➠〢・👦 ᴍʏ ꜰᴜʟʟ ɴᴀᴍᴇ ɪꜱ <b><i>ɪᴛɪSʜ Sʀɪᴠᴀꜱᴛᴀᴠᴀ</b></i>. <br/>
+  ╵➠〢・👦 ᴍʏ ꜰᴜʟʟ ɴᴀᴍᴇ ɪꜱ <b><i>ɪᴛɪSʜ Sʀɪᴠᴀꜱᴛᴀᴠᴀ</i></b>. <br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ ꜰᴇʙ</b>.<br/>
   ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b></br>
