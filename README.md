@@ -35,7 +35,7 @@
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</b></i> 👀</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave"/></p>
 <br/>
-<br/><br/>
+<br/>
 
 <!--START_SECTION:waka-->
 
@@ -50,8 +50,7 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴀɴɢᴜᴀɢᴇs ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
-<img src="https://i.postimg.cc/W3sD020t/save.png"/></p>
-<br/>
+<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/></p>
 <br/>
 <br/>
 
@@ -66,14 +65,13 @@
 <p align="center">
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
 </p>
-<br/>
+<br/><br/>
 
 --------
 <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a></p>
   
   ------------
-  <br/>
 
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</b></i> 🏆 </h2>
 <p align="center">
@@ -144,3 +142,4 @@
 <!--
   
 -->
+
