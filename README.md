@@ -4,7 +4,7 @@
 <br/>
 
 -------
-<h1 align="center"><b/>ʙᴏɴᴊᴏᴜʀ ᴊᴇ ꜱᴜɪꜱ ɪᴛɪꜱʜ!</h1>
+<h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ ᴊᴇ ꜱᴜɪꜱ ɪᴛɪꜱʜ!</b> <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/></h1>
 <p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange" /><br/><br/>
 </p>
 
