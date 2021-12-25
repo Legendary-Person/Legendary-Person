@@ -1,6 +1,8 @@
 -------
-<img alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
-
+<p align="center">
+<img alt="mybanner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px)%20(1).gif"/> 
+</p>
+  
 -------
 <h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ</b></h1>
 <!--Hello! I am Itish-->
@@ -139,6 +141,8 @@
 
 
 -------
+<p align="center">
 <img alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
-
+</p>
+                                                                                                                          
 -------
