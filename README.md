@@ -48,7 +48,9 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴀɴɢᴜᴀɢᴇs ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
-<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/></p>
+  <img width=500px" src="https://wakatime.com/share/@just_a_woke_human/1bf462ad-21fd-4b0d-857a-c5be6a1123c4.svg"/>
+<!--<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/>-->
+</p>
 <br/>
 <br/>
 
