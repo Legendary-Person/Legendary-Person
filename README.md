@@ -1,6 +1,6 @@
 -------
 <p align="center">
-<img alt="mybanner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px)%20(1).gif"/> 
+<img alt="mybanner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px).gif"/> 
 </p>
   
 -------
