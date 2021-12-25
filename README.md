@@ -35,10 +35,6 @@
 <br/>
 <br/>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 --------
 <p align="center">
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a></p>
@@ -138,6 +134,9 @@
 ------
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
   
