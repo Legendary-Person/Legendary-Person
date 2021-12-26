@@ -1,6 +1,8 @@
 -------
-<img alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
-
+<p align="center">
+<img alt="mybanner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px).gif"/> 
+</p>
+  
 -------
 <h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ</b></h1>
 <!--Hello! I am Itish-->
@@ -9,7 +11,7 @@
 
   <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
   <p align="left">
-  ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ ꜰᴇʙ!</b>.<br/>
+  ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ.<br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
   ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b></br>
   ╵➠〢・👨‍⚖️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
@@ -35,10 +37,6 @@
 <br/>
 <br/>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 --------
 <p align="center">
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a></p>
@@ -48,7 +46,9 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴀɴɢᴜᴀɢᴇs ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
-<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/></p>
+  <img width=500px" src="https://wakatime.com/share/@just_a_woke_human/1bf462ad-21fd-4b0d-857a-c5be6a1123c4.svg"/>
+<!--<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/>-->
+</p>
 <br/>
 <br/>
 
@@ -136,8 +136,13 @@
 ------
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!--
-  
--->
 
+-------
+<p align="center">
+<img alt="mybanner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
+</p>
+                                                                                                                          
+-------
