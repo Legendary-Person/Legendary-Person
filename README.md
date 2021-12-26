@@ -1,17 +1,17 @@
 -------
 <!--suppress HtmlUnknownTarget -->
-<p style="text-align: center;">
+<p align="center">
 <img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px).gif"/> 
 </p>
   
 -------
-<h1 style="text-align: center;"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ</b></h1>
+<h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ</b></h1>
 <!--Hello! I am Itish-->
-<p style="text-align: center;"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/><br/>
+<p align="center"><img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/><br/>
 </p>
 
   <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
-  <p style="text-align: center;">
+  <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ.<br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
   ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
@@ -27,7 +27,7 @@
   <br/>
   
   -------
-  <p style="text-align: center;">
+  <p align="center">
   <a href='https://github.com/pricing'><img alt="Pro Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a>
   </p>
   
@@ -35,19 +35,19 @@
   <br/>
 
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</b></i> 👀</h2>
-<p style="text-align: center;"><img alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave"/></p>
+<p align="center"><img alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave"/></p>
 <br/>
 <br/>
 
 --------
-<p style="text-align: center;">
+<p align="center">
   <a href='https://stars.github.com/'><img alt="Star Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a></p>
   
   ----------
   <br/>
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴀɴɢᴜᴀɢᴇs ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
-<p style="text-align: center;">
+<p align="center">
   <img alt="Waka-Time" width=500px" src="https://wakatime.com/share/@just_a_woke_human/1bf462ad-21fd-4b0d-857a-c5be6a1123c4.svg"/>
 <!--<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/>-->
 </p>
@@ -55,32 +55,32 @@
 <br/>
 
 ------
-<p style="text-align: center;">
+<p align="center">
   <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a></p>
   
   -----------
   <br/>
 
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️ </h2>
-<p style="text-align: center;">
+<p align="center">
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
 </p>
 <br/><br/>
 
 --------
-<p style="text-align: center;">
+<p align="center">
   <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a></p>
   
   ------------
 
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</b></i> 🏆 </h2>
-<p style="text-align: center;">
+<p align="center">
 <img alt="Trophy" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=Legendary-Person&show_icons=true&theme=dracula"/>
   </p><br/>
 <br/> 
 
 ------
-<p style="text-align: center;">
+<p align="center">
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a></p>
   
 --------
