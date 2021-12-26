@@ -87,21 +87,21 @@
 <br/>  
   
 <h2 align="center"><b/><i/>╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</h2>
-<p style="text-align: center;">
-<img alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img style="text-align: center;" alt="codeSTACKr |" width="40px" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" />
-<img alt="codeSTACKr |" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br/><br/><br/>
-<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /><br/><br/><br/>
-<img alt="C-programming" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img alt="Webstorm" width="40px" src="https://img.icons8.com/color/48/000000/webstorm.png"/>
-<img alt="Pycharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<p align="center">
+<img align="center" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="codeSTACKr |" width="40px" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" />
+<img align="center" alt="codeSTACKr |" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="center" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br/><br/><br/>
+<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /><br/><br/><br/>
+<img align="center" alt="C-programming" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="center" alt="Webstorm" width="40px" src="https://img.icons8.com/color/48/000000/webstorm.png"/>
+<img align="center" alt="Pycharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="center" alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 
 </p>
 <br/>
@@ -109,10 +109,10 @@
 <br/>
 
 <h2 align="center"><b><i>╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</b></i> 🛰️</h2>
-<p style="text-align: center;">
-<a href="http://itishsrivastava.me/"><img alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/109739/earth-globe.svg" /></a>
-<a href="https://www.instagram.com/just_a_woke_human/"><img alt="codeSTACKr | Instagram" width="40px" src="https://www.svgrepo.com/show/217758/instagram.svg" /></a>
-<a href="https://www.linkedin.com/in/itish-srivastava-614431229/"><img alt="codeSTACKr | LinkedIn" width="40px" src="https://www.svgrepo.com/show/134579/linkedin.svg" /></a></p>
+<p align="center">
+<a href="http://itishsrivastava.me/"><img align="center" alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/109739/earth-globe.svg" /></a>
+<a href="https://www.instagram.com/just_a_woke_human/"><img align="center" alt="codeSTACKr | Instagram" width="40px" src="https://www.svgrepo.com/show/217758/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/itish-srivastava-614431229/"><img align="center" alt="codeSTACKr | LinkedIn" width="40px" src="https://www.svgrepo.com/show/134579/linkedin.svg" /></a></p>
 <br/>
 <br/>
 <br/>
@@ -124,7 +124,7 @@
 
 ------
 
-<br/><style="text-align: center;">
+<br/><p align="center">
 <img src="https://img.shields.io/badge/Project-Manager-red"/>
 <img src="https://img.shields.io/badge/Developer-blue"/>
 <img src="https://img.shields.io/badge/Programmer-purple"/>
@@ -143,7 +143,7 @@
 
 
 -------
-<p style="text-align: center;">
+<p align="center">
 <img alt="my banner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
 </p>
                                                                                                                           
