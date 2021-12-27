@@ -23,7 +23,7 @@
                                                                                                                                                       
   <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
   <p align="left">
-  ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20 height='20'/></a><br/>
+  ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
   ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
   ╵➠〢・👨‍⚖️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
