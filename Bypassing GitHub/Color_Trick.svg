@@ -4,13 +4,14 @@
             <style>
             h1 {
                 color: red;
-                animation: mymove 2s infinite;
+                animation: mymove 4s infinite;
             }
 
             @keyframes mymove {
                 0%   {color: red;}
-                25%  {color: yellow;}
+                25%  {color: gold;}
                 50%  {color: blue;}
+                75%  {color: silver;}
                 100% {color: green;}
             }
             </style>
