@@ -65,7 +65,7 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
-  <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/1bf462ad-21fd-4b0d-857a-c5be6a1123c4.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/3c2c2f72-2b58-4d4e-b1f9-3464c40ac232.svg"/></p>
+  <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/4ed78fb0-f1c4-4ffd-9060-25afbb5133b2.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/0d977969-e3c9-4a2f-9bbf-e4b801075053.svg"/></p>
                                                                                             
                                                                                            
 ------
