@@ -48,58 +48,63 @@
 <br/>
 
 <!--My GitHub Stats-->
-
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</i></b> 👀</summary>
+  
 -------                                                                         
-<h2 align="center"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</b></i> 👀</h2>
 <p align="center">
   <img height="180px" width="480px" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=shades-of-purple&hide_border=false"/>
 </p>
 
 -------
+</details>
 <br/>
-  
----------    
 
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
-
-<h2 align="center"><b><i>╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</i></b> 🤓</summary>
+    
+---------    
 <p align="center">
   <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/96e69ad7-538a-40c3-aa3b-b1cc3d52871e.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/0067666b-9b2a-403d-933c-d48851193c09.svg"/></p>
                                                                                             
                                                                                            
 ------
+</details>
 <br/>
-  
------------
 
 <!--My Contributions-->
-
-<h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️ </h2>
+<details>
+  <summary align="left"><i><b>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️</summary>
+  
+-----------
 <p align="center">
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&theme=shades-of-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&dates=BB00FCB9&border=2F03FF&amp;" alt="Itish" style="max-width: 100%;"/>
 </p>
 
 --------
+</details>
 <br/>
-  
-------------
 
 <!--My trophies-->
-
-<h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</b></i> 🏆 </h2>
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</i></b> 🏆</summary>
+  
+------------
 <p align="center">
 <img alt="Trophy" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=Legendary-Person&show_icons=true&theme=dracula"/>
-  </p>
-
-------
-<br/>
+</p>
   
---------
+------
+</details>
+<br/>
 
 <!--The Tools I use/know-how-to-use-->
-
-<h2 align="center"><b/><i/>╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</h2>
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ᴍʏ ᴛᴏᴏʟS!</i></b> 🤙</summary>
+  
+--------
 <p align="center">
 <img alt="codeSTACKr.com" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img alt="codeSTACKr |" height="40px" width="40px" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" />
@@ -118,13 +123,14 @@
 </p>
 
 ---------
+</details>
 <br/>
 
----------
-
 <!--My socials and stuff-->
-
-<h2 align="center"><b><i>╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</b></i> 🛰️</h2>
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</i></b> 🛰️</summary>
+  
+---------
 <p align="center">
 <a href="http://itishsrivastava.me/"><img align="center" alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/109739/earth-globe.svg" /></a>
 <a href="https://www.instagram.com/just_a_woke_human/"><img align="center" alt="codeSTACKr | Instagram" width="40px" src="https://www.svgrepo.com/show/217758/instagram.svg" /></a>
@@ -136,12 +142,14 @@
 <!--[linkedin]: https://www.linkedin.com/in/itish-srivastava-614431229/-->
 
 ------
+</details>
 <br/>
 
--------
-
 <!--Bunch of relevant Badges-->
-
+<details>
+  <summary align="left"><b><i>╵𒄉〢・ᴛᴀɢS!</i></b> 📑</summary>
+  
+-------
 <p align="center">
 <img src="https://img.shields.io/badge/Project-Manager-red"/>
 <img src="https://img.shields.io/badge/Developer-blue"/>
@@ -154,6 +162,7 @@
 <img src="https://img.shields.io/badge/GSOC-2022-lightgreen"/></p>
 
 ------
+</details>
 <br/>
 
 -------
