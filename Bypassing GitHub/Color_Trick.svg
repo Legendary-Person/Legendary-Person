@@ -14,44 +14,45 @@
                 to {
                     color: indigo;
                 }
-                if(color: indigo){
-                   from {
-                       color: indigo;
-                   }
-                   to {
-                       color: blue;
-                   }
+            }   
+            @keyframes mymove {
+                from {
+                    color: indigo;
                 }
-                if(color: blue){
-                   from {
-                       color: blue;
-                   }
-                   to {
-                       color: yellow;
-                   }
+                to {
+                    color: blue;
                 }
-                if(color: yellow){
-                   from {
-                       color: yellow;
-                   }
-                   to {
-                       color: green;
-                   }
+            }
+            @keyframes mymove {
+                from {
+                    color: blue;
                 }
-                if(color: green){
-                   from {
-                       color: green;
-                   }
-                   to {
-                       color: orange;
-                   }
+                to {
+                    color: yellow;
                 }
-                if(color: orange){
-                   from {
-                       color: orange;
-                   }
-                   to {
-                       color: red;
+            }
+            @keyframes mymove {
+                from {
+                    color: yellow;
+                }
+                to {
+                    color: green;
+                }
+            }
+            @keyframes mymove {
+                from {
+                    color: green;
+                }
+                to {
+                    color: orange;
+                }
+            }
+            @keyframes mymove {
+                from {
+                    color: orange;
+                }
+                to {
+                    color: red;
                 }
             }
             </style>
