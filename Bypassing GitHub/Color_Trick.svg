@@ -9,61 +9,11 @@
 
             @keyframes mymove {
                 from {
-                    color: violet;
-                }
-                to {
                     color: indigo;
-                }
-            }
-            if(color: indigo){
-            @keyframes mymove {
-                from {
-                    color: indigo;
-                }
-                to {
-                    color: blue;
-                }
-            }
-            }
-            if(color: blue){
-            @keyframes mymove {
-                from {
-                    color: blue;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            }
-            if(color: yellow){
-            @keyframes mymove {
-                from {
-                    color: yellow;
                 }
                 to {
                     color: green;
                 }
-            }
-            }
-            if(color: green){
-            @keyframes mymove {
-                from {
-                    color: green;
-                }
-                to {
-                    color: orange;
-                }
-            }
-            }
-            if(color: orange){
-            @keyframes mymove {
-                from {
-                    color: orange;
-                }
-                to {
-                    color: red;
-                }
-            }
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
