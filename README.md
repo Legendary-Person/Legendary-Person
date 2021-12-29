@@ -12,11 +12,10 @@
 -------
 
 <!--The Welcome Message in French (Hello! I am Itish)-->
+<p align="center">
+  <img align="center" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
+</p>
 
-
-<div align="center">
-    <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
-</div> 
 
 
 
