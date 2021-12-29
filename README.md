@@ -6,7 +6,7 @@
 
 -------
 <p align="center">
-<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px).gif"/> 
+<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Welcome%20Guys!%20(1100%20x%20300%20px)%20(1).gif"/> 
 </p>
   
 -------
@@ -54,7 +54,7 @@
 
 <!--My GitHub Stats-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
   
 -------                                                                         
 <p align="center">
@@ -68,7 +68,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
     
 ---------    
 <p align="center">
@@ -81,7 +81,7 @@
 ---------
 <!--My Contributions-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
   
 -----------
 <p align="center">
@@ -94,7 +94,7 @@
 ---------
 <!--My trophies-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
   
 ------------
 <p align="center">
@@ -107,7 +107,7 @@
 ---------
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
   
 --------
 <p align="center">
@@ -133,7 +133,7 @@
 ---------
 <!--My socials and stuff-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
   
 ---------
 <p align="center">
@@ -152,7 +152,7 @@
 ---------
 <!--Bunch of relevant Badges-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
   
 -------
 <p align="center">
