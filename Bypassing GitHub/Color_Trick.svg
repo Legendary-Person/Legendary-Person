@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
+    <foreignObject>
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
@@ -17,6 +17,9 @@
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
+            <p align="center">
+            <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
+            </p>
         </div>
     </foreignObject>
 </svg>
