@@ -8,10 +8,10 @@
             }
 
             @keyframes mymove {
-                0%   {color: #ff5050;}
-                25%  {color: gold;}
-                50%  {color: #cc66ff;}
-                75%  {color: #db4dff;}
+                10%   {color: #ff5050;}
+                35%  {color: gold;}
+                60%  {color: #cc66ff;}
+                85%  {color: #db4dff;}
                 100% {color: #4dffdb;}
             }
             </style>
