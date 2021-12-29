@@ -52,7 +52,7 @@
 -------                                                                         
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</b></i> 👀</h2>
 <p align="center">
-  <img height="180px" width="480px" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=synthwave"/>
+  <img height="180px" width="480px" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=Legendary-Person&count_private=true&include_all_commits=true&theme=shades-of-purple&hide_border=false"/>
 </p>
 
 -------
