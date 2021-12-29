@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: violet;
+                color: orange;
                 animation: mymove 20s infinite;
             }
 
@@ -12,7 +12,7 @@
                     color: orange;
                 }
                 to {
-                    color: neon;
+                    color: gold;
                 }
             }
             </style>
