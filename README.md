@@ -62,7 +62,7 @@
 ---------
 
 <!--My GitHub Stats-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
   
 -------                                                                         
@@ -76,7 +76,7 @@
 ---------
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
     
 ---------    
@@ -89,7 +89,7 @@
 
 ---------
 <!--My Contributions-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
   
 -----------
@@ -102,7 +102,7 @@
 
 ---------
 <!--My trophies-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
   
 ------------
@@ -115,7 +115,7 @@
 
 ---------
 <!--The Tools I use/know-how-to-use-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
   
 --------
@@ -141,7 +141,7 @@
 
 ---------
 <!--My socials and stuff-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
   
 ---------
@@ -160,7 +160,7 @@
 
 ---------
 <!--Bunch of relevant Badges-->
-<details>
+<details open>
   <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
   
 -------
