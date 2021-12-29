@@ -184,7 +184,7 @@
 <!--My Closing Banner-->
 
 <p align="center">
-<img alt="my banner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
+<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Purple%20and%20Blue%20Gradient%20Memphis%20Live%20Stream%20Linkedin%20Banner.gif"/> 
 </p>
                                                                                                                           
 -------
