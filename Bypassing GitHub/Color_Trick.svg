@@ -10,9 +10,9 @@
             @keyframes mymove {
                 0%   {color: red;}
                 25%  {color: gold;}
-                50%  {color: blue;}
+                50%  {color: #cc66ff;}
                 75%  {color: silver;}
-                100% {color: green;}
+                100% {color: #4dffdb;}
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
