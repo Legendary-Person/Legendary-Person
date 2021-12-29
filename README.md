@@ -179,7 +179,7 @@
 </details>
 
 -------
-<br/>
+-------
 
 <!--My Closing Banner-->
 
