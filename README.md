@@ -1,25 +1,29 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+<!--The Welcome Banner-->
+
 -------
-<!--suppress HtmlUnknownTarget -->
 <p align="center">
 <img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Welcome%20Guys!%20(1100%20x%20300%20px).gif"/> 
 </p>
-<!--The Welcome Banner-->
   
 -------
+
+<!--The Welcome Message in French (Hello! I am Itish)-->
+
 <h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ
   </b>
 </h1>
-<!--The Welcome Message in French (Hello! I am Itish)-->
-                                                               
+        
+<!--The Co-Founder Badge-->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/><br/>
 </p>
-<!--The Co-Founder Badge-->
                                                                             
-                                                                        
+<!--Introduction Details-->                                                                     
                                                                                                                                                       
   <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
   <p align="left">
@@ -43,6 +47,8 @@
 </p>
 <br/>
 
+<!--My GitHub Stats-->
+
 -------                                                                         
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</b></i> 👀</h2>
 <p align="center">
@@ -50,21 +56,25 @@
 </p>
 
 -------
-<!--The Second Section (I dunno how to add waka-time)-->
-  <br/>
+<br/>
   
----------             
+---------    
+
+<!--The Things I use the most, like the languages I use and the editors I use.--> 
+<!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
+
 <h2 align="center"><b><i>╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</b></i> 🤓 </h2>
 <p align="center">
   <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/1bf462ad-21fd-4b0d-857a-c5be6a1123c4.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/3c2c2f72-2b58-4d4e-b1f9-3464c40ac232.svg"/></p>
-                                                                                                                                
-<!--The Third Section [Backup:-<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"/>]-->
                                                                                             
                                                                                            
 ------
 <br/>
   
 -----------
+
+<!--My Contributions-->
+
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️ </h2>
 <p align="center">
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
@@ -74,6 +84,9 @@
 <br/>
   
 ------------
+
+<!--My trophies-->
+
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</b></i> 🏆 </h2>
 <p align="center">
 <img alt="Trophy" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=Legendary-Person&show_icons=true&theme=dracula"/>
@@ -83,6 +96,9 @@
 <br/>
   
 --------
+
+<!--The Tools I use/know-how-to-use-->
+
 <h2 align="center"><b/><i/>╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</h2>
 <p align="center">
 <img alt="codeSTACKr.com" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -105,6 +121,9 @@
 <br/>
 
 ---------
+
+<!--My socials and stuff-->
+
 <h2 align="center"><b><i>╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</b></i> 🛰️</h2>
 <p align="center">
 <a href="http://itishsrivastava.me/"><img align="center" alt="codeSTACKr.com" width="40px" src="https://www.svgrepo.com/show/109739/earth-globe.svg" /></a>
@@ -113,13 +132,16 @@
 
 <!-- This section you create the variables that are used above -->
 <!--[website]: http://itishsrivastava.me/-->
-<!--[instagram]: https://www.instagram.com/just_a_woke_human/
-[linkedin]: https://www.linkedin.com/in/itish-srivastava-614431229/-->
+<!--[instagram]: https://www.instagram.com/just_a_woke_human/-->
+<!--[linkedin]: https://www.linkedin.com/in/itish-srivastava-614431229/-->
 
 ------
 <br/>
 
 -------
+
+<!--Bunch of relevant Badges-->
+
 <p align="center">
 <img src="https://img.shields.io/badge/Project-Manager-red"/>
 <img src="https://img.shields.io/badge/Developer-blue"/>
@@ -135,6 +157,9 @@
 <br/>
 
 -------
+
+<!--My Closing Banner-->
+
 <p align="center">
 <img alt="my banner" src="https://i.postimg.cc/FR00q4XX/Purple-and-Blue-Gradient-Memphis-Live-Stream-Linkedin-Banner-1.png"/> 
 </p>
