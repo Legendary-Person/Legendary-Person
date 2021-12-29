@@ -77,7 +77,7 @@
 
 <h2 align="center"><b><i>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️ </h2>
 <p align="center">
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&amp;" alt="Itish" style="max-width: 100%;"/>
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Legendary-Person&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=BB00FCB9&border=2F03FF&amp;" alt="Itish" style="max-width: 100%;"/>
 </p>
 
 --------
