@@ -56,7 +56,7 @@
 
 <!--My GitHub Stats-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ  ㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ     ㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
   
 -------                                                                         
 <p align="center">
@@ -70,7 +70,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ    ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
     
 ---------    
 <p align="center">
@@ -83,7 +83,7 @@
 ---------
 <!--My Contributions-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ  ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ     ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
   
 -----------
 <p align="center">
@@ -96,7 +96,7 @@
 ---------
 <!--My trophies-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ    ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
   
 ------------
 <p align="center">
@@ -109,7 +109,7 @@
 ---------
 <!--The Tools I use/know-how-to-use-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
   
 --------
 <p align="center">
@@ -135,7 +135,7 @@
 ---------
 <!--My socials and stuff-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ  ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ     ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
   
 ---------
 <p align="center">
@@ -154,7 +154,7 @@
 ---------
 <!--Bunch of relevant Badges-->
 <details open>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
   
 -------
 <p align="center">
