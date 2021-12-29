@@ -4,15 +4,15 @@
             <style>
             h1 {
                 color: violet;
-                animation: mymove 10s infinite;
+                animation: mymove 20s infinite;
             }
 
             @keyframes mymove {
                 from {
-                    color: indigo;
+                    color: orange;
                 }
                 to {
-                    color: green;
+                    color: neon;
                 }
             }
             </style>
