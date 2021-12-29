@@ -9,7 +9,7 @@
 
             @keyframes mymove {
                 from {
-                    color: orange;
+                    color: silver;
                 }
                 to {
                     color: gold;
