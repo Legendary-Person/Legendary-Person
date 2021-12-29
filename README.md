@@ -49,12 +49,21 @@
   ╵➠〢・🗄️ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ɪɴ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a><br/>
   ╵➠〢・☎️ ᴍᴇSSᴀɢᴇ ᴍᴇ <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 </p>
+<br/>
+
+---------
+<p align="center">
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Universe%20Photo%20Card%20(2000%20x%20800%20px)%20(2000%20x%20400%20px).gif"/>
+</p>
+
+---------
+<br/>
 
 ---------
 
 <!--My GitHub Stats-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
   
 -------                                                                         
 <p align="center">
@@ -68,7 +77,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
     
 ---------    
 <p align="center">
@@ -81,7 +90,7 @@
 ---------
 <!--My Contributions-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
   
 -----------
 <p align="center">
@@ -94,7 +103,7 @@
 ---------
 <!--My trophies-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
   
 ------------
 <p align="center">
@@ -107,7 +116,7 @@
 ---------
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
   
 --------
 <p align="center">
@@ -133,7 +142,7 @@
 ---------
 <!--My socials and stuff-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
   
 ---------
 <p align="center">
@@ -152,7 +161,7 @@
 ---------
 <!--Bunch of relevant Badges-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
   
 -------
 <p align="center">
