@@ -10,7 +10,6 @@
 </p>
   
 -------
--------
 
 <!--The Welcome Message in French (Hello! I am Itish)-->
 
