@@ -14,7 +14,8 @@
                 to {
                     color: indigo;
                 }
-            }   
+            }
+            if(color: indigo){
             @keyframes mymove {
                 from {
                     color: indigo;
@@ -23,6 +24,8 @@
                     color: blue;
                 }
             }
+            }
+            if(color: blue){
             @keyframes mymove {
                 from {
                     color: blue;
@@ -31,6 +34,8 @@
                     color: yellow;
                 }
             }
+            }
+            if(color: yellow){
             @keyframes mymove {
                 from {
                     color: yellow;
@@ -39,6 +44,8 @@
                     color: green;
                 }
             }
+            }
+            if(color: green){
             @keyframes mymove {
                 from {
                     color: green;
@@ -47,6 +54,8 @@
                     color: orange;
                 }
             }
+            }
+            if(color: orange){
             @keyframes mymove {
                 from {
                     color: orange;
@@ -54,6 +63,7 @@
                 to {
                     color: red;
                 }
+            }
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
