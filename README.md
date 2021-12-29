@@ -14,9 +14,9 @@
 <!--The Welcome Message in French (Hello! I am Itish)-->
 
 
-<h1 align="center">
-  <b>ʙᴏɴᴊᴏᴜʀ!</b> <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ
-</h1>
+<div align="center">
+    <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
+</div> 
 
 
 
