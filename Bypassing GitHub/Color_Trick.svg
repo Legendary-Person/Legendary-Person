@@ -13,38 +13,46 @@
                 }
                 to {
                     color: indigo;
-     
-                from {
-                    color: indigo;
                 }
-                to {
-                    color: blue;
-                
-                from {
-                    color: blue;
+                if(color: indigo){
+                   from {
+                       color: indigo;
+                   }
+                   to {
+                       color: blue;
+                   }
                 }
-                to {
-                    color: yellow;
-                
-                from {
-                    color: yellow;
+                if(color: blue){
+                   from {
+                       color: blue;
+                   }
+                   to {
+                       color: yellow;
+                   }
                 }
-                to {
-                    color: green;
-                
-                from {
-                    color: green;
+                if(color: yellow){
+                   from {
+                       color: yellow;
+                   }
+                   to {
+                       color: green;
+                   }
                 }
-                to {
-                    color: orange;
-                
-                from {
-                    color: orange;
+                if(color: green){
+                   from {
+                       color: green;
+                   }
+                   to {
+                       color: orange;
+                   }
                 }
-                to {
-                    color: red;
+                if(color: orange){
+                   from {
+                       color: orange;
+                   }
+                   to {
+                       color: red;
                 }
-                }}}}}
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
