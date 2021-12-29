@@ -3,17 +3,15 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: #1affff;
+                color: red;
                 animation: mymove 2s infinite;
             }
 
             @keyframes mymove {
-                from {
-                    color: #1affff;
-                }
-                to {
-                    color: gold;
-                }
+                0%   {background-color: red;}
+                25%  {background-color: yellow;}
+                50%  {background-color: blue;}
+                100% {background-color: green;}
             }
             </style>
             <h1 align="center">ʙᴏɴᴊᴏᴜʀ! ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ</h1>
