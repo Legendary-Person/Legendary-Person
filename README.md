@@ -48,8 +48,8 @@
 <br/>
 
 <!--My GitHub Stats-->
-<details>
-  <summary align="left"><b><i>╵𒄉〢・ᴍʏ sᴛᴀᴛS!</i></b> 👀</summary>
+<details open>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS!</i></b> 👀</summary>
   
 -------                                                                         
 <p align="center">
@@ -63,7 +63,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary align="left"><b><i>╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</i></b> 🤓</summary>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</i></b> 🤓</summary>
     
 ---------    
 <p align="center">
@@ -76,7 +76,7 @@
 
 <!--My Contributions-->
 <details>
-  <summary align="left"><i><b>╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️</summary>
+  <summary align="left"><i><b>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️</summary>
   
 -----------
 <p align="center">
@@ -89,7 +89,7 @@
 
 <!--My trophies-->
 <details>
-  <summary align="left"><b><i>╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</i></b> 🏆</summary>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</i></b> 🏆</summary>
   
 ------------
 <p align="center">
@@ -102,7 +102,7 @@
 
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary align="left"><b><i>╵𒄉〢・ᴍʏ ᴛᴏᴏʟS!</i></b> 🤙</summary>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS!</i></b> 🤙</summary>
   
 --------
 <p align="center">
@@ -128,7 +128,7 @@
 
 <!--My socials and stuff-->
 <details>
-  <summary align="left"><b><i>╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</i></b> 🛰️</summary>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</i></b> 🛰️</summary>
   
 ---------
 <p align="center">
@@ -147,7 +147,7 @@
 
 <!--Bunch of relevant Badges-->
 <details>
-  <summary align="left"><b><i>╵𒄉〢・ᴛᴀɢS!</i></b> 📑</summary>
+  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</summary>
   
 -------
 <p align="center">
