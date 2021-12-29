@@ -10,19 +10,23 @@
 </p>
   
 -------
+-------
 
 <!--The Welcome Message in French (Hello! I am Itish)-->
 
-<h1 align="center"><b>ʙᴏɴᴊᴏᴜʀ! <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪꜱʜ
-  </b>
+
+<h1 align="center">
+  <b>ʙᴏɴᴊᴏᴜʀ!</b> <img width="30px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="High.gif"/> ᴊᴇ ᴍ’ᴀᴘᴘᴇʟʟᴇ ɪᴛɪSʜ
 </h1>
-        
+
+
+
 <!--The Co-Founder Badge-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/><br/>
+  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
 </p>
-                                                                            
+                                                                       
 <!--Introduction Details-->                                                                     
                                                                                                                                                       
   <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
@@ -47,11 +51,10 @@
 </p>
 
 ---------
-<br/>
 
 <!--My GitHub Stats-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS!</i></b> 👀</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
   
 -------                                                                         
 <p align="center">
@@ -60,12 +63,12 @@
 
 -------
 </details>
-<br/>
 
+---------
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ!</i></b> 🤓</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
     
 ---------    
 <p align="center">
@@ -74,11 +77,11 @@
                                                                                            
 ------
 </details>
-<br/>
 
+---------
 <!--My Contributions-->
 <details>
-  <summary align="left"><i><b>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS!</b></i> ⚔️</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
   
 -----------
 <p align="center">
@@ -87,11 +90,11 @@
 
 --------
 </details>
-<br/>
 
+---------
 <!--My trophies-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS!</i></b> 🏆</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
   
 ------------
 <p align="center">
@@ -100,11 +103,11 @@
   
 ------
 </details>
-<br/>
 
+---------
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS!</i></b> 🤙</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
   
 --------
 <p align="center">
@@ -126,11 +129,11 @@
 
 ---------
 </details>
-<br/>
 
+---------
 <!--My socials and stuff-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ!</i></b> 🛰️</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
   
 ---------
 <p align="center">
@@ -145,11 +148,11 @@
 
 ------
 </details>
-<br/>
 
+---------
 <!--Bunch of relevant Badges-->
 <details>
-  <summary align="left"><b><i>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</summary>
+  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
   
 -------
 <p align="center">
@@ -165,9 +168,9 @@
 
 ------
 </details>
-<br/>
 
 -------
+<br/>
 
 <!--My Closing Banner-->
 
