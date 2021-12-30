@@ -23,8 +23,8 @@
 </p>
                                                                        
 <!--Introduction Details-->                                                                     
-                                                                                                                                                      
-  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ! <img width="30px" height=30px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/osi_membership_badge.svg"/> </i></b></h2>
+  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b></h2>
+  <img align="right" width="400px" height="250px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/osi_membership_badge.svg"/>
   <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
@@ -44,14 +44,17 @@
   ╵➠〢・🗄️ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ɪɴ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a><br/>
   ╵➠〢・☎️ ᴍᴇSSᴀɢᴇ ᴍᴇ <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 </p>
-<br/>
 
 ---------
+<br/>
+
+<!-----------
 <p align="center">
   <img height="160px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
 </p>
 
 ---------
+-->
 ---------
 
 <!--My GitHub Stats-->
