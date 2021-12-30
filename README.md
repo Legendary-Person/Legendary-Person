@@ -23,7 +23,7 @@
 </p>
                                                                        
 <!--Introduction Details-->                                                                     
-  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b></h2>
+  <h2 align="center"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b></h2>
   <img align="right" width="380px" height="250px" src="https://assets.rbl.ms/10758473/980x.gif"/>
   <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
