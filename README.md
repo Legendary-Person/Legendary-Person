@@ -42,7 +42,7 @@
   </a>
   <br/>
   ╵➠〢・🗄️ ɪɴᴛᴏ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a><br/>
-  ╵➠〢・☎️ ᴍᴇSSᴀɢᴇ ᴍᴇ <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
+  ╵➠〢・☎️ ᴇᴍᴀɪʟ:- <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 </p>
 
 ---------
