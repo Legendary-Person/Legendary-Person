@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
 </p>                                                                       
 <!--Introduction Details--> 
+<br/>
 
 ---------
 <p align="center">
