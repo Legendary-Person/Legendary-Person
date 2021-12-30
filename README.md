@@ -83,7 +83,7 @@
 ---------
 <!--My Contributions-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ       ╵𒄉〢・ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴS! ⚔️</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Contributions.gif"/></summary>
   
 -----------
 <p align="center">
@@ -96,7 +96,7 @@
 ---------
 <!--My trophies-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ ㅤㅤ      ╵𒄉〢・ᴍʏ ᴛʀᴏᴘʜɪᴇS! 🏆</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Trophies.gif"/></summary>
   
 ------------
 <p align="center">
@@ -109,7 +109,7 @@
 ---------
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤ  ╵𒄉〢・ᴍʏ ᴛᴏᴏʟS! 🤙</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Toolbox.gif"/></summary>
   
 --------
 <p align="center">
@@ -135,7 +135,7 @@
 ---------
 <!--My socials and stuff-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ     ㅤ  ╵𒄉〢・ʟᴇᴛ'S ᴄᴏɴɴᴇᴄᴛ! 🛰️</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Let's%20Connect.gif"/></summary>
   
 ---------
 <p align="center">
@@ -154,7 +154,7 @@
 ---------
 <!--Bunch of relevant Badges-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ㅤㅤㅤㅤ   ㅤ  ╵𒄉〢・ᴛᴀɢS!</i></b> 📑</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Tags.gif"/></summary>
   
 -------
 <p align="center">
