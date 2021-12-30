@@ -6,7 +6,7 @@
 
 -------
 <p align="center">
-<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Welcome%20Guys!%20(1100%20x%20300%20px)%20(1).gif"/> 
+<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Intro.gif"/> 
 </p>
   
 -------
@@ -48,7 +48,7 @@
 
 ---------
 <p align="center">
-  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Universe%20Photo%20Card%20(2000%20x%20800%20px)%20(2000%20x%20400%20px)%20(1).gif"/>
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category.gif"/>
 </p>
 
 ---------
@@ -56,7 +56,7 @@
 
 <!--My GitHub Stats-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Universe%20Photo%20Card%20(2000%20x%20800%20px)%20(2000%20x%20400%20px)%20(2000%20x%20200%20px).gif"/></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Stats.gif"/></summary>
   
 -------                                                                         
 <p align="center">
@@ -70,7 +70,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ  ㅤ  ╵𒄉〢・ᴛʜɪɴɢS ɪ ᴜꜱᴇ ᴛʜᴇ ᴍᴏsᴛ! 🤓</strong></summary>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Things%20I%20use%20the%20Most.gif"/></summary>
     
 ---------    
 <p align="center">
@@ -177,7 +177,7 @@
 <!--My Closing Banner-->
 
 <p align="center">
-<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Purple%20and%20Blue%20Gradient%20Memphis%20Live%20Stream%20Linkedin%20Banner.gif"/> 
+<img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Outro.gif"/> 
 </p>
                                                                                                                           
 -------
