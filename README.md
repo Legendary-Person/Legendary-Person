@@ -48,10 +48,12 @@
 
 ---------
 <p align="center">
-  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category.gif"/>
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
 </p>
 
 ---------
+<br/>
+
 ---------
 
 <!--My GitHub Stats-->
