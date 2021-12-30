@@ -33,7 +33,6 @@
 </p>
 
 ---------
-<br/>
 
 <details>
   <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
