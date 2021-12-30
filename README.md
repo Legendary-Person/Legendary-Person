@@ -50,7 +50,7 @@
 
 ---------
 <p align="center">
-  <img height="160px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
 </p>
 
 ---------
