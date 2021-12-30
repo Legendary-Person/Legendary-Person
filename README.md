@@ -24,7 +24,7 @@
                                                                        
 <!--Introduction Details-->                                                                     
                                                                                                                                                       
-  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b> 🤩 </h2>
+  <h2 align="left"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ! <img width="30px" height=30px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/osi_membership_badge.svg"/> </i></b></h2>
   <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
