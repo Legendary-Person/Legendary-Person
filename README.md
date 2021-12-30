@@ -28,11 +28,11 @@
   <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
   ╵➠〢・🧓 ɪ ᴛᴜʀɴᴇᴅ <b>18</b> ᴛʜɪS ʏᴇᴀʀ. <br/>
-  ╵➠〢・💠 ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
-  ╵➠〢・👨‍⚖️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
-  ╵➠〢・🕸️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
-  ╵➠〢・☁️ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ʟᴇᴀʀɴɪɴɢ <b>ᴄʟᴏᴜᴅ Sᴇʀᴠɪᴄᴇꜱ.</b><br/>
-  ╵➠〢・🧰 ᴜSᴜᴀʟʟʏ ᴡᴏʀᴋ ᴜSɪɴɢ <b>ᴘʏᴛʜᴏɴ</b>, <b>ᴄ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>.
+  ╵➠〢・💠 ʟᴇᴀʀɴɪɴɢ <b>ᴀᴘᴘ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
+  ╵➠〢・👨‍⚖️ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
+  ╵➠〢・🕸️ ʟᴇᴀʀɴɪɴɢ <b>ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
+  ╵➠〢・☁️ ʟᴇᴀʀɴɪɴɢ <b>ᴄʟᴏᴜᴅ Sᴇʀᴠɪᴄᴇꜱ.</b><br/>
+  ╵➠〢・🧰 ɪ ᴜSᴇ <b>ᴘʏᴛʜᴏɴ</b>, <b>ᴋᴏᴛʟɪɴ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>.
   <a href='https://github.com/pricing'>
   <img alt="Pro Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'>
   </a>
@@ -46,7 +46,6 @@
 </p>
 
 ---------
-<br/>
 
 <!-----------
 <p align="center">
