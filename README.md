@@ -32,16 +32,16 @@
   ╵➠〢・👨‍⚖️ ʟᴇᴀʀɴɪɴɢ <b>ᴘʀᴏᴊᴇᴄᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.</b><br/>
   ╵➠〢・🕸️ ʟᴇᴀʀɴɪɴɢ <b>ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.</b><br/>
   ╵➠〢・☁️ ʟᴇᴀʀɴɪɴɢ <b>ᴄʟᴏᴜᴅ Sᴇʀᴠɪᴄᴇꜱ.</b><br/>
+  ╵➠〢・📂 ʟᴇᴀʀɴɪɴɢ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>, <b>ᴋᴏᴛʟɪɴ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀ</b>. 
+  <a href='https://stars.github.com/'><img alt="Star Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'>
+  </a>
+  <br/>
   ╵➠〢・🧰 ɪ ᴜSᴇ <b>ᴘʏᴛʜᴏɴ</b>, <b>ᴋᴏᴛʟɪɴ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>.
   <a href='https://github.com/pricing'>
   <img alt="Pro Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'>
   </a>
   <br/>
-  ╵➠〢・📂 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <b>ᴊᴀᴠᴀSᴄʀɪᴘᴛ</b>, <b>ᴋᴏᴛʟɪɴ</b> ᴀɴᴅ <b>ᴊᴀᴠᴀ</b>. 
-  <a href='https://stars.github.com/'><img alt="Star Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'>
-  </a>
-  <br/>
-  ╵➠〢・🗄️ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ɪɴ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a><br/>
+  ╵➠〢・🗄️ ɪɴᴛᴏ <b>ᴏᴘᴇɴ Sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛS</b>. <a href='https://archiveprogram.github.com/'><img alt="Pro badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a><br/>
   ╵➠〢・☎️ ᴍᴇSSᴀɢᴇ ᴍᴇ <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 </p>
 
