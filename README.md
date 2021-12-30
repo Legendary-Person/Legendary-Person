@@ -48,7 +48,7 @@
 
 ---------
 <p align="center">
-  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
+  <img height="180px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
 </p>
 
 ---------
