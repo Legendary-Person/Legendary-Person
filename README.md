@@ -56,7 +56,7 @@
 
 <!--My GitHub Stats-->
 <details>
-  <summary><strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ╵𒄉〢・ᴍʏ sᴛᴀᴛS! 👀</strong></summary>
+  <summary align="left"><img align="center" height="94px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/gif/Universe%20Photo%20Card%20(2000%20x%20800%20px)%20(2000%20x%20400%20px)%20(2).gif"/></summary>
   
 -------                                                                         
 <p align="center">
