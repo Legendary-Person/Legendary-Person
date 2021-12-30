@@ -13,7 +13,7 @@
 
 <!--The Welcome Message in French (Hello! I am Itish)-->
 <div align="center">
-  <img align="center" height="150px" width="1000px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
+  <img align="center" width="1000px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
 </div>
 
 ---------
