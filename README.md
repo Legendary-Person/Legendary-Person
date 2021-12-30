@@ -13,17 +13,28 @@
 
 <!--The Welcome Message in French (Hello! I am Itish)-->
 <div align="center">
-  <img align="center" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
+  <img align="center" height="150px" width="1000px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
 </div>
 
 ---------
 <!--The Co-Founder Badge-->
 <p align="center">
   <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
+</p>                                                                       
+<!--Introduction Details--> 
+
+---------
+<p align="center">
+  <img height="140px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
 </p>
-                                                                       
-<!--Introduction Details-->                                                                     
-  <h2 align="center"><b><i>╵𒄉〢・ᴀ ʟɪᴛᴛʟᴇ ᴀʙᴏᴜᴛ ᴍᴇ!</i></b></h2>
+
+---------
+<br/>
+
+<details>
+  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
+    
+  ---------
   <img align="right" width="380px" height="250px" src="https://assets.rbl.ms/10758473/980x.gif"/>
   <p align="left">
   ╵➠〢・🎂 ᴡɪꜱʜ ᴍᴇ ᴏɴ <b>26ᴛʜ</b> ꜰᴇʙ. <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img alt="Open-Source Badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20px' height='20px'/></a><br/>
@@ -45,16 +56,9 @@
   ╵➠〢・☎️ ᴇᴍᴀɪʟ- <b><a href="ItishsrivastavaKIIT@gmail.com">ɪᴛɪꜱʜꜱʀɪᴠᴀꜱᴛᴀᴠᴀᴋɪɪᴛ@ɢᴍᴀɪʟ.ᴄᴏᴍ</a></b>. <a href='https://docs.github.com/en/developers'><img alt="Dev badge" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 </p>
 
+---------                                                                                          
 ---------
-<br/>
-
----------
-<p align="center">
-  <img height="140px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub-Category-Intro.gif"/>
-</p>
-
----------
-<br/>
+</details>
 
 ---------
 
