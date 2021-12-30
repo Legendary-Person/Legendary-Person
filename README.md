@@ -26,7 +26,7 @@
 
 ---------
 <p align="center">
-  <img height="140px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub%20Category%20Intro.gif"/>
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub%20Category%20Intro.gif"/>
 </p>
 
 ---------
