@@ -10,12 +10,30 @@
 </p>
   
 ---------
+<br/>
+
+-------
+
+<!--The Welcome Message in French (Hello! I am Itish)-->
+<div align="center">
+  <img align="center" height="50%" width="90%" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
+</div>
+
+---------
+<!--The Co-Founder Badge-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
+</p>                                                                       
+<!--Introduction Details--> 
+
+<!--
 ---------
 <p align="center">
   <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub%20Category%20Intro.gif"/>
 </p>
 
 ---------
+-->
 
 <details>
   <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
