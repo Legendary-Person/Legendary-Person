@@ -37,7 +37,7 @@
     
 ---------
 <p align="center">
-  <img width="500px" height="400px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/About%20me.gif"/>
+  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/About%20me!1%20(400%20x%20300%20px)%20(400%20x%20200%20px)%20(600%20x%20200%20px).png"/>
   </p>
   
 ---------
