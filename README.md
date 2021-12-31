@@ -33,7 +33,7 @@
 -->
 
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
     
 ---------
 <p align="center">
@@ -47,7 +47,7 @@
 
 <!--My GitHub Stats-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Stats.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Stats.gif"/></summary>
   
 -------                                                                         
 <p align="center">
@@ -61,7 +61,7 @@
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Things%20I%20use%20the%20Most.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Things%20I%20use%20the%20Most.gif"/></summary>
     
 ---------    
 <p align="center">
@@ -74,7 +74,7 @@
 ---------
 <!--My Contributions-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Contributions.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Contributions.gif"/></summary>
   
 -----------
 <p align="center">
@@ -87,7 +87,7 @@
 ---------
 <!--My trophies-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Trophies.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Trophies.gif"/></summary>
   
 ------------
 <p align="center">
@@ -100,7 +100,7 @@
 ---------
 <!--The Tools I use/know-how-to-use-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Toolbox.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/My%20Toolbox.gif"/></summary>
   
 --------
 <p align="center">
@@ -126,7 +126,7 @@
 ---------
 <!--My socials and stuff-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Let's%20Connect.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Let's%20Connect.gif"/></summary>
   
 ---------
 <p align="center">
@@ -145,7 +145,7 @@
 ---------
 <!--Bunch of relevant Badges-->
 <details>
-  <summary align="left">ㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Tags.gif"/></summary>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Tags.gif"/></summary>
   
 -------
 <p align="center">
