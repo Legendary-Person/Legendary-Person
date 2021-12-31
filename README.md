@@ -4,29 +4,12 @@
 
 <!--The Welcome Banner-->
 
--------
+---------
 <p align="center">
 <img alt="my banner" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Intro.gif"/> 
 </p>
   
--------
-<br/>
-
--------
-
-<!--The Welcome Message in French (Hello! I am Itish)-->
-<div align="center">
-  <img align="center" height="50%" width="90%" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Bypassing%20GitHub/Color_Trick.svg" alt="css-in-readme">
-</div>
-
 ---------
-<!--The Co-Founder Badge-->
-<p align="center">
-  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
-</p>                                                                       
-<!--Introduction Details--> 
-<br/>
-
 ---------
 <p align="center">
   <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Sub%20Category%20Intro.gif"/>
