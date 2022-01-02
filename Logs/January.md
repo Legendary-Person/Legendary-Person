@@ -1,3 +1,5 @@
+<img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/Log%20(600%20x%20200%20px)%20(2000%20x%20200%20px)%20(1).png"/>
+
 --------
 <h1 align="center">𝕽𝖊𝖕𝖔𝖗𝖙-1</h1>
 
