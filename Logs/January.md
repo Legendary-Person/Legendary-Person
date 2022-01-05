@@ -12,6 +12,6 @@
 > - Happy Fact#1: I have waiting for my order to arrive, it should be arriving tomorrow and I am excited for it.
 > - Happy Fact#2: My friends will sleepover at my place, we are going to have lots of fun and a little bit of studying.
 >
-> - Update#1: The BlueDart Courier service has yet to deliver my package, it is what it is so there isn't anything that can be done about it.
+> - Update#1: There seems to be some issue with the delivery of my package :(
 
 --------
