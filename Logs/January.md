@@ -18,5 +18,6 @@
 > - ***Update#1: My product is in the final stages and will soon be delivered to me by BlueDart. I am excited for what's to come.***
 > - ***Update#2: I have started with my Coursera Course, hopefully I will be able to get all my certificates this month.***
 > - ***Update#3: I am in the process of making a Music Player using JavaScript.***
+> - ***Update#4: Designing using pure code is hard, really hard...but I am learning something new day by day. I will make sure do better.***
 
 --------
