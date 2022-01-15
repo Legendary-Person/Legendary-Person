@@ -8,7 +8,7 @@
 > - ***Time: 18:40***
 > 
 > - ***Goal#1: Get four certificates by the end of January, complete the Python Crash Course.*** 
-> - ***Goal#2: Start with JavaScript Projects (Music Player, Dark and Light theme, Quote Generator, Todo App, Portfolio Website.)***
+> - ***Goal#2: Start with JavaScript Projects (Music Player {done}, Dark and Light theme, Quote Generator, Todo App, Portfolio Website.)***
 > 
 > - ***Progress: I have completed course#3 "Git and GitHub", I now need to focus on the next course which will help me further my skills.***
 > 
@@ -20,5 +20,6 @@
 > - ***Update#3: I am in the process of making a Music Player using JavaScript.***
 > - ***Update#4: Designing using pure code is hard, really hard...but I am learning something new day by day. I will make sure do better.***
 > - ***Update#5: I am nearly finished up with my Music Player Project.***
+> - ***Update#6: Done with my Music Player Project.***
 
 --------
