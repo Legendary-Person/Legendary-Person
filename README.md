@@ -91,12 +91,12 @@
   <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/my%20blogs.gif"/></summary>
   
 -----------
-🔗 [Backend is so underrated that it's not even funny!](https://dsckiit.slab.com/posts/back-end-is-so-underrated-that-its-not-even-funny-j7e2cqgl)
-🔗 [Basics of Web Development and "The Three Brothers"](https://dsckiit.slab.com/posts/basics-of-web-development-and-the-three-brothers-37ceey8i)
-🔗 [The Only thing you will ever need...](https://dsckiit.slab.com/posts/the-only-thing-you-will-ever-need-ylx1mg7n)
-🔗 [Every programmer should know this...](https://dsckiit.slab.com/posts/every-programmer-should-know-this-f4cjj3ce)
-🔗 [The Undisputed King of programming languages...JavaScript!](https://dsckiit.slab.com/posts/the-undisputed-king-of-programming-languages-java-script-s0qqhdh1)
-🔗 [The Single Greatest thing to ever happen...](https://dsckiit.slab.com/posts/the-single-greatest-thing-to-ever-happen-f3dpt8p0)
+🔗 [Backend is so underrated that it's not even funny!](https://dsckiit.slab.com/posts/back-end-is-so-underrated-that-its-not-even-funny-j7e2cqgl) </br>
+🔗 [Basics of Web Development and "The Three Brothers"](https://dsckiit.slab.com/posts/basics-of-web-development-and-the-three-brothers-37ceey8i) </br>
+🔗 [The Only thing you will ever need...](https://dsckiit.slab.com/posts/the-only-thing-you-will-ever-need-ylx1mg7n) </br>
+🔗 [Every programmer should know this...](https://dsckiit.slab.com/posts/every-programmer-should-know-this-f4cjj3ce) </br>
+🔗 [The Undisputed King of programming languages...JavaScript!](https://dsckiit.slab.com/posts/the-undisputed-king-of-programming-languages-java-script-s0qqhdh1) </br>
+🔗 [The Single Greatest thing to ever happen...](https://dsckiit.slab.com/posts/the-single-greatest-thing-to-ever-happen-f3dpt8p0) </br>
 🔗 [How to Excel at writing blogs?](https://dsckiit.slab.com/posts/how-to-excel-at-writing-blogs-gbdfxwi0)
 
 --------
