@@ -36,9 +36,12 @@
   <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
     
 ---------
-<p align="center">
-  <img src="https://github.com/Legendary-Person/Legendary-Person/blob/main/Picture/About%20me!1%20(400%20x%20300%20px)%20(400%20x%20200%20px)%20(600%20x%20200%20px).png"/>
-  </p>
+- I am interested in ```App Development```, ```Project Management``` and ```Interactive Web Designs```.
+- ```Kotlin``` intrigues me the most, I like using the language and would like to expertise in it.
+- I can code in ```HTML, CSS, JavaScript, C, Python and Kotlin```.
+- I love contributing to ```Open-Source projects```, it is one of reasons why I like learning new technologies, just so that I can contribute to the best of my abilities.
+- I plan on learning ```React, PHP, jQuery and Ktor```.
+- Drop a message:-[```ItishsrivastavaKIIT@gmail.com```](itishsrivastavaKIIT@gmail.com) 
   
 ---------
 </details>
@@ -64,12 +67,8 @@
   <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/my%20projects.gif"/></summary>
   
 -------                                                                         
-<p align="left">
-  <a href="https://github.com/Legendary-Person/Music-Player.git">
-    ```1. Black Balloon Music Player```
-  </a>
-</p>
-
+1. [```Black Balloon Music Player```](https://github.com/Legendary-Person/Music-Player.git)
+  
 -------
 </details>
 
