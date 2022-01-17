@@ -67,7 +67,7 @@
   <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/my%20projects.gif"/></summary>
   
 -------                                                                         
-1. [```Black Balloon Music Player```](https://github.com/Legendary-Person/Music-Player.git)
+1. Check out my [```Black Balloon Music Player```](https://github.com/Legendary-Person/Music-Player.git)
   
 -------
 </details>
