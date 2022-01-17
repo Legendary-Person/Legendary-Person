@@ -58,6 +58,20 @@
 </details>
 
 ---------
+
+<!--My GitHub Projects-->
+<details>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/my%20projects.gif"/></summary>
+  
+-------                                                                         
+<p align="left">
+  <a href="https://github.com/Legendary-Person/Music-Player.git">```1. Black Balloon Music Player```</a>
+</p>
+
+-------
+</details>
+
+---------
 <!--The Things I use the most, like the languages I use and the editors I use.--> 
 <!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
 <details>
