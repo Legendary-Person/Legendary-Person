@@ -65,24 +65,12 @@
   
 -------                                                                         
 <p align="left">
-  <a href="https://github.com/Legendary-Person/Music-Player.git">```1. Black Balloon Music Player```</a>
+  <a href="https://github.com/Legendary-Person/Music-Player.git">
+    ```1. Black Balloon Music Player```
+  </a>
 </p>
 
 -------
-</details>
-
----------
-<!--The Things I use the most, like the languages I use and the editors I use.--> 
-<!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
-<details>
-  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Things%20I%20use%20the%20Most.gif"/></summary>
-    
----------    
-<p align="center">
-  <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/96e69ad7-538a-40c3-aa3b-b1cc3d52871e.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/0067666b-9b2a-403d-933c-d48851193c09.svg"/></p>
-                                                                                            
-                                                                                           
-------
 </details>
 
 ---------
@@ -96,6 +84,21 @@
 </p>
 
 --------
+</details>
+
+--------
+
+<!--The Things I use the most, like the languages I use and the editors I use.--> 
+<!--Backup Language Graph Image Link:-"https://github.com/Legendary-Person/Legendary-Person/blob/main/Temp-Graph.jpg"-->
+<details>
+  <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/Things%20I%20use%20the%20Most.gif"/></summary>
+    
+---------    
+<p align="center">
+  <img alt="Waka-Time" width="400px" src="https://wakatime.com/share/@just_a_woke_human/96e69ad7-538a-40c3-aa3b-b1cc3d52871e.svg"/> <img alt="Ide" width="400px" src="https://wakatime.com/share/@just_a_woke_human/0067666b-9b2a-403d-933c-d48851193c09.svg"/></p>
+                                                                                            
+                                                                                           
+------
 </details>
 
 ---------
