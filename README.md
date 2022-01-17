@@ -36,7 +36,7 @@
   <summary align="left">ㅤㅤ<img align="center" height="75px" src="https://github.com/Legendary-Person/Legendary-Person/blob/main/My%20Gif/A%20Little%20About%20Me.gif"/></summary>
     
 ---------
-- I am interested in ```App Development```, ```Project Management``` and ```Interactive Web Designs```.
+- I am interested in ```App Development, Project Management and Interactive Web Designs```.
 - ```Kotlin``` intrigues me the most, I like using the language and would like to expertise in it.
 - I can code in ```HTML, CSS, JavaScript, C, Python and Kotlin```.
 - I love contributing to ```Open-Source projects```, it is one of reasons why I like learning new technologies, just so that I can contribute to the best of my abilities.
