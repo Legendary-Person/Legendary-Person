@@ -97,7 +97,8 @@
 🔗 [Every programmer should know this...](https://dsckiit.slab.com/posts/every-programmer-should-know-this-f4cjj3ce) </br>
 🔗 [The Undisputed King of programming languages...JavaScript!](https://dsckiit.slab.com/posts/the-undisputed-king-of-programming-languages-java-script-s0qqhdh1) </br>
 🔗 [The Single Greatest thing to ever happen...](https://dsckiit.slab.com/posts/the-single-greatest-thing-to-ever-happen-f3dpt8p0) </br>
-🔗 [How to Excel at writing blogs?](https://dsckiit.slab.com/posts/how-to-excel-at-writing-blogs-gbdfxwi0)
+🔗 [How to Excel at writing blogs?](https://dsckiit.slab.com/posts/how-to-excel-at-writing-blogs-gbdfxwi0) </br>
+🔗 [Blockchain, the future is boundless...](https://dsckiit.slab.com/posts/blockchain-the-future-is-boundless-zro79qga)
 
 --------
 </details>
