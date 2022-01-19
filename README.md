@@ -100,7 +100,8 @@
 <a href="https://dsckiit.slab.com/posts/the-single-greatest-thing-to-ever-happen-f3dpt8p0">```🔗 The Single Greatest thing to ever happen...```</a></br>
 <a href="https://dsckiit.slab.com/posts/how-to-excel-at-writing-blogs-gbdfxwi0">```🔗 How to Excel at writing blogs?```</a></br>
 <a href="https://dsckiit.slab.com/posts/blockchain-the-future-is-boundless-zro79qga">```🔗 Blockchain, the future is boundless...```</a></br>
-<a href="https://dsckiit.slab.com/posts/what-do-you-mean-by-cloud-services-f24lyuc6">```🔗 What do you mean by Cloud Services?```</a>
+<a href="https://dsckiit.slab.com/posts/what-do-you-mean-by-cloud-services-f24lyuc6">```🔗 What do you mean by Cloud Services?```</a></br>
+<a href="https://dsckiit.slab.com/posts/you-hate-it-but-you-also-love-it-oltsdemy">```🔗 You hate it but you also love it…```</a>
 
 --------
 </details>
