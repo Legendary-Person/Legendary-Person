@@ -23,6 +23,6 @@
 > - ***Update#4: Designing using pure code is hard, really hard...but I am learning something new day by day. I will make sure do better.***
 > - ***Update#5: I am nearly finished up with my Music Player Project.***
 > - ***Update#6: Done with my Music Player Project.***
-> - ***Update#7: Finished with my Git and GitHub course, currently doing TroubleShooting and Debugging (Week-2).
+> - ***Update#7: Finished with my Git and GitHub course, currently doing TroubleShooting and Debugging (Week-2).***
 
 --------
