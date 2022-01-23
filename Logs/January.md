@@ -38,5 +38,6 @@
 > - ```Update#7:``` ***Finished with my Git and GitHub course, currently doing TroubleShooting and Debugging (Week-2).***
 > - ```Update#8:``` ***Done with my 4th course, time to move on to the 5th course and complete it.***
 > - ```Update#9:``` ***Done with my 5th course, time to move on to the last course.***
+> - ```Update#10:``` ***Final Course Week-1 done.***
 
 --------
