@@ -17,6 +17,7 @@
 > - ```Progress:``` ***I have completed course#3 "Git and GitHub", I now need to focus on the next course which will help me further my skills.***
 > - ```Progress:``` ***I have completed course#4 "Troubleshooting & Debugger", I now need to finish the next course as soon as possible in order to unlock the last course.***
 > - ```Progress:``` ***Lots of exams, need to clear-out my to-do list.***
+> - ```Progress:``` ***I have completed course#5 "Configuration Management and Cloud", I now need to finish the last course in order to get my certificate.***
 
 </br>
 
@@ -24,6 +25,7 @@
 > - ```Happy Fact#2:``` ***My friends will sleepover at my place, we are going to have lots of fun and a little bit of studying.***
 > - ```Happy Fact#3:``` ***My order has been delivered and now I can follow up on other stuff.***
 > - ```Happy Fact#4:``` ***I got a paid internship at LetsUpgrade, I am thinking about doing it for a month and then leave, but I might not.***
+> - ```Happy Fact#5:``` ***I will get my professional certificate by the end of this month.***
 
 </br>
 
@@ -35,5 +37,6 @@
 > - ```Update#6:``` ***Done with my Music Player Project.***
 > - ```Update#7:``` ***Finished with my Git and GitHub course, currently doing TroubleShooting and Debugging (Week-2).***
 > - ```Update#8:``` ***Done with my 4th course, time to move on to the 5th course and complete it.***
+> - ```Update#9:``` ***Done with my 5th course, time to move on to the last course.***
 
 --------
