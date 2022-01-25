@@ -104,7 +104,8 @@
 <a href="https://dsckiit.slab.com/posts/you-hate-it-but-you-also-love-it-oltsdemy">```🔗 You hate it but you also love it…```</a></br>
 <a href="https://dsckiit.slab.com/posts/the-noble-adored-by-everyone-yra8mmxb">```🔗 The Noble adored by everyone…```</a></br>
 <a href="https://dsckiit.slab.com/posts/the-king-makers-of-the-engineering-world-k7j7eyql">```🔗 The King-Makers of the Engineering World…```</a></br>
-<a href="https://dsckiit.slab.com/posts/they-love-me-said-python-with-a-smile-hfjdhzqy">```🔗 "They love me…!" said Python, with a smile…```</a>
+<a href="https://dsckiit.slab.com/posts/they-love-me-said-python-with-a-smile-hfjdhzqy">```🔗 "They love me…!" said Python, with a smile…```</a></br>
+<a href="https://dsckiit.slab.com/posts/visualization-is-the-future-of-teaching-9qrg2vs6">```🔗 Visualization is the future of teaching…```</a>
 
 --------
 </details>
