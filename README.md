@@ -108,7 +108,8 @@
 <a href="https://dsckiit.slab.com/posts/visualization-is-the-future-of-teaching-9qrg2vs6">```🔗 Visualization is the future of teaching...```</a></br>
 <a href="https://dsckiit.slab.com/posts/build-any-kind-of-website-using-django-04xlsbtx">```🔗 Build any Kind of Website using Django...```</a></br>
 <a href="https://dsckiit.slab.com/posts/what-do-you-mean-by-cross-platform-functionality-fdgkv0o0">```🔗 What do you mean by Cross-Platform Functionality?```</a></br>
-<a href="https://dsckiit.slab.com/posts/the-rise-of-zoom-jerzy0at">```🔗 The Rise of Zoom…```</a>
+<a href="https://dsckiit.slab.com/posts/the-rise-of-zoom-jerzy0at">```🔗 The Rise of Zoom…```</a></br>
+<a href="https://dsckiit.slab.com/posts/lets-talk-about-mern-stack-a-mean-stack-variant-njbel5pq">```🔗 Let's talk about MERN Stack, a MEAN Stack variant…```</a>
 
 --------
 </details>
