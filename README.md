@@ -110,7 +110,8 @@
 <a href="https://dsckiit.slab.com/posts/what-do-you-mean-by-cross-platform-functionality-fdgkv0o0">```🔗 What do you mean by Cross-Platform Functionality?```</a></br>
 <a href="https://dsckiit.slab.com/posts/the-rise-of-zoom-jerzy0at">```🔗 The Rise of Zoom…```</a></br>
 <a href="https://dsckiit.slab.com/posts/lets-talk-about-mern-stack-a-mean-stack-variant-njbel5pq">```🔗 Let's talk about MERN Stack, a MEAN Stack variant…```</a></br>
-<a href="https://dsckiit.slab.com/posts/life-cycle-of-a-website-mgfzehwk">```🔗 Life Cycle of a Website…```</a>
+<a href="https://dsckiit.slab.com/posts/life-cycle-of-a-website-mgfzehwk">```🔗 Life Cycle of a Website…```</a></br>
+<a href="https://dsckiit.slab.com/posts/it-is-both-the-problem-and-the-solution-g950nut1">```🔗 It is both the problem and the solution…```</a>
 
 --------
 </details>
