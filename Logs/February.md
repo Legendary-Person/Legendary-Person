@@ -28,5 +28,6 @@
 </br>
 
 > - ```Update#1:``` ***My product is in the final stages and will soon be delivered to me by BlueDart. I am excited for what's to come.***
+> - ```Update#2:``` ***My product has been delivered to me.***
 
 --------
