@@ -118,7 +118,8 @@
 <a href="https://dsckiit.slab.com/posts/lets-make-a-portfolio-website-vaj4g9ui">```🔗 Let's make a Portfolio Website!```</a></br>
 <a href="https://dsckiit.slab.com/posts/how-to-choose-a-programming-language-efficiently-ktwl96tj">```🔗 How to choose a programming language efficiently?```</a></br>
 <a href="https://dsckiit.slab.com/posts/how-to-quickly-learn-and-master-a-programming-language-piq3jl56">```🔗 How to quickly learn and master a programming language?```</a></br>
-<a href="https://dsckiit.slab.com/posts/introduction-to-nf-ts-oamjvlaw">```🔗 Introduction To NFTs…```</a>
+<a href="https://dsckiit.slab.com/posts/introduction-to-nf-ts-oamjvlaw">```🔗 Introduction To NFTs…```</a></br>
+<a href="https://dsckiit.slab.com/posts/intro-to-web-3-0-h75b3x11">```🔗 Intro To Web 3.0```</a>
 
 
 --------
