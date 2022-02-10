@@ -23,11 +23,14 @@
 > - ```Happy Fact#1:``` ***I just ordered custom marvel boAT earphone 131, a tribute to Black Panther.***
 > - ```Happy Fact#2:``` ***My college is reopening in the first week of March.***
 > - ```Happy Fact#3:``` ***I will recieve my first internship payment on 10 Feb.***
+> - ```Happy Fact#4:``` ***I have completed 13% of my Connect Four Project.***
 
 
 </br>
 
 > - ```Update#1:``` ***My product is in the final stages and will soon be delivered to me by BlueDart. I am excited for what's to come.***
 > - ```Update#2:``` ***My product has been delivered to me.***
+> - ```Update#3:``` ***My first 30-blogs, have been published on LetsUpgrade.***
+> - ```Update#4:``` ***The second phase of my internship has started.*** 
 
 --------
