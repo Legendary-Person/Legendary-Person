@@ -120,7 +120,8 @@
 <a href="https://dsckiit.slab.com/posts/how-to-quickly-learn-and-master-a-programming-language-piq3jl56">```🔗 How to quickly learn and master a programming language?```</a></br>
 <a href="https://dsckiit.slab.com/posts/introduction-to-nf-ts-oamjvlaw">```🔗 Introduction To NFTs…```</a></br>
 <a href="https://dsckiit.slab.com/posts/intro-to-web-3-0-h75b3x11">```🔗 Intro To Web 3.0```</a></br>
-<a href="https://dsckiit.slab.com/posts/intro-to-virtual-reality-y68ecsa7">```🔗 Intro To Virtual Reality…```</a>
+<a href="https://dsckiit.slab.com/posts/intro-to-virtual-reality-y68ecsa7">```🔗 Intro To Virtual Reality…```</a></br>
+<a href="https://dsckiit.slab.com/posts/what-is-object-oriented-programming-de0mz295">```🔗 What is Object Oriented Programming?```</a>
 
 
 --------
