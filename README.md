@@ -122,7 +122,8 @@
 <a href="https://dsckiit.slab.com/posts/intro-to-web-3-0-h75b3x11">```🔗 Intro To Web 3.0```</a></br>
 <a href="https://dsckiit.slab.com/posts/intro-to-virtual-reality-y68ecsa7">```🔗 Intro To Virtual Reality…```</a></br>
 <a href="https://dsckiit.slab.com/posts/what-is-object-oriented-programming-de0mz295">```🔗 What is Object Oriented Programming?```</a></br>
-<a href="https://dsckiit.slab.com/posts/lets-talk-about-cyber-security-and-its-types-vmv2x3sj">```🔗 Let's talk about Cyber Security and it's types.```</a>
+<a href="https://dsckiit.slab.com/posts/lets-talk-about-cyber-security-and-its-types-vmv2x3sj">```🔗 Let's talk about Cyber Security and it's types.```</a></br>
+<a href="https://dsckiit.slab.com/posts/what-is-an-ide-aaix8o26">```🔗 What is an IDE?```</a>
 
 --------
 </details>
