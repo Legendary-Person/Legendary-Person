@@ -123,7 +123,8 @@
 <a href="https://dsckiit.slab.com/posts/intro-to-virtual-reality-y68ecsa7">```🔗 Intro To Virtual Reality…```</a></br>
 <a href="https://dsckiit.slab.com/posts/what-is-object-oriented-programming-de0mz295">```🔗 What is Object Oriented Programming?```</a></br>
 <a href="https://dsckiit.slab.com/posts/lets-talk-about-cyber-security-and-its-types-vmv2x3sj">```🔗 Let's talk about Cyber Security and it's types.```</a></br>
-<a href="https://dsckiit.slab.com/posts/what-is-an-ide-aaix8o26">```🔗 What is an IDE?```</a>
+<a href="https://dsckiit.slab.com/posts/what-is-an-ide-aaix8o26">```🔗 What is an IDE?```</a></br>
+<a href="https://dsckiit.slab.com/posts/what-is-a-plugin-0plg6b5c">```🔗 What is a Plugin?```</a>
 
 --------
 </details>
