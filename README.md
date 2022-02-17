@@ -41,6 +41,7 @@
 - I can code in ```HTML, CSS, JavaScript, C, Python and Kotlin```.
 - I love contributing to ```Open-Source projects```, it is one of reasons why I like learning new technologies, just so that I can contribute to the best of my abilities.
 - I plan on learning ```React, PHP, jQuery and Ktor```.
+- I am currently doing a paid internship at [```LetsUpgrade```](https://letsupgrade.in/).
 - Drop a message:-[```ItishsrivastavaKIIT@gmail.com```](itishsrivastavaKIIT@gmail.com) 
   
 ---------
