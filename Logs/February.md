@@ -12,7 +12,7 @@
 > - ```Goal#1:``` ***Make a project on Connect Four using Kotlin.*** 
 > - ```Goal#2:``` ***Learn Head-First for Kotlin and CSS.***
 > - ```Goal#3:``` ***Write 30-blogs for Internship.***
-> - ```Goal#4:``` ***Finish up with End-sem and do good.*** 
+> - ```Goal#4:``` ***Finish up with End-sem and do good.*** (completed)
 
 </br>
 
