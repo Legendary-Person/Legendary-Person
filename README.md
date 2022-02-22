@@ -130,7 +130,8 @@
 <a href="https://dsckiit.slab.com/posts/different-forms-of-digital-currency-2qik6tj2">```🔗 Different forms of Digital Currency?```</a></br>
 <a href="https://dsckiit.slab.com/posts/impact-of-digital-currency-yfi3bkdj">```🔗 Impact of Digital Currency```</a></br>
 <a href="https://dsckiit.slab.com/posts/how-to-live-as-a-programmer-ey0mbezz">```🔗 How to live as a programmer…```</a></br>
-<a href="https://dsckiit.slab.com/posts/is-doing-courses-worth-it-l63g8uqt">```🔗 Is doing courses worth it?```</a>
+<a href="https://dsckiit.slab.com/posts/is-doing-courses-worth-it-l63g8uqt">```🔗 Is doing courses worth it?```</a></br>
+<a href="https://dsckiit.slab.com/posts/discord-slack-linked-in-are-your-friends-e9813gzz">```🔗 Discord, Slack, LinkedIn are your friends…```</a>
 
 --------
 </details>
