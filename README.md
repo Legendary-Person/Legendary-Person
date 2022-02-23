@@ -131,7 +131,9 @@
 <a href="https://dsckiit.slab.com/posts/impact-of-digital-currency-yfi3bkdj">```🔗 Impact of Digital Currency```</a></br>
 <a href="https://dsckiit.slab.com/posts/how-to-live-as-a-programmer-ey0mbezz">```🔗 How to live as a programmer…```</a></br>
 <a href="https://dsckiit.slab.com/posts/is-doing-courses-worth-it-l63g8uqt">```🔗 Is doing courses worth it?```</a></br>
-<a href="https://dsckiit.slab.com/posts/discord-slack-linked-in-are-your-friends-e9813gzz">```🔗 Discord, Slack, LinkedIn are your friends…```</a>
+<a href="https://dsckiit.slab.com/posts/discord-slack-linked-in-are-your-friends-e9813gzz">```🔗 Discord, Slack, LinkedIn are your friends…```</a></br>
+<a href="https://dsckiit.slab.com/posts/what-is-isic-card-1sg1q1bn">```🔗 What is ISIC Card?```</a>
+
 
 --------
 </details>
