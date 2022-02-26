@@ -133,7 +133,8 @@
 <a href="https://dsckiit.slab.com/posts/is-doing-courses-worth-it-l63g8uqt">```🔗 Is doing courses worth it?```</a></br>
 <a href="https://dsckiit.slab.com/posts/discord-slack-linked-in-are-your-friends-e9813gzz">```🔗 Discord, Slack, LinkedIn are your friends…```</a></br>
 <a href="https://dsckiit.slab.com/posts/what-is-isic-card-1sg1q1bn">```🔗 What is ISIC Card?```</a></br>
-<a href="https://dsckiit.slab.com/posts/lets-learn-a-bit-about-ruby-on-rails-0hjsuagz">```🔗 Let's learn a bit about Ruby On Rails!```</a>
+<a href="https://dsckiit.slab.com/posts/lets-learn-a-bit-about-ruby-on-rails-0hjsuagz">```🔗 Let's learn a bit about Ruby On Rails!```</a></br>
+<a href="https://dsckiit.slab.com/posts/what-do-we-mean-by-machine-learning-oc7h4jcc">```🔗 What do we mean by Machine Learning?```</a>
 
 
 --------
