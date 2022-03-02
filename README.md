@@ -137,7 +137,8 @@
 <a href="https://dsckiit.slab.com/posts/what-do-we-mean-by-machine-learning-oc7h4jcc">```🔗 What do we mean by Machine Learning?```</a></br>
 <a href="https://dsckiit.slab.com/posts/what-is-an-api-uxgs181a">```🔗 What is an API?```</a></br>
 <a href="https://dsckiit.slab.com/posts/exploring-flutter-sng9jb4f">```🔗 Exploring Flutter…```</a></br>
-<a href="https://dsckiit.slab.com/posts/peoples-operating-system-ubuntu-rrdfnebv">```🔗 People's Operating System— Ubuntu```</a>
+<a href="https://dsckiit.slab.com/posts/peoples-operating-system-ubuntu-rrdfnebv">```🔗 People's Operating System— Ubuntu```</a></br>
+<a href="https://dsckiit.slab.com/posts/a-major-problem-among-freshers-nhldwopi">```🔗 A major problem among freshers.```</a>
 
 
 --------
