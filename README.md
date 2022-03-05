@@ -140,7 +140,8 @@
 <a href="https://dsckiit.slab.com/posts/peoples-operating-system-ubuntu-rrdfnebv">```🔗 People's Operating System— Ubuntu```</a></br>
 <a href="https://dsckiit.slab.com/posts/a-major-problem-among-freshers-nhldwopi">```🔗 A major problem among freshers.```</a></br>
 <a href="https://dsckiit.slab.com/posts/it-is-both-the-problem-and-the-solution-g950nut1">```🔗 It is both the problem and the solution…```</a>>/br>
-<a href="https://dsckiit.slab.com/posts/rust-the-fastest-growing-language-ef8lndtx">```🔗 Rust— The fastest growing language```</a>
+<a href="https://dsckiit.slab.com/posts/rust-the-fastest-growing-language-ef8lndtx">```🔗 Rust— The fastest growing language```</a></br>
+<a href="https://dsckiit.slab.com/posts/multi-threading-absc0wce">```🔗 Multi-Threading```</a>
 
 
 --------
