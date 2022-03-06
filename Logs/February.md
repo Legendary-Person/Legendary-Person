@@ -11,19 +11,20 @@
 
 > - ```Goal#1:``` ***Make a project on Connect Four using Kotlin.*** 
 > - ```Goal#2:``` ***Learn Head-First for Kotlin and CSS.***
-> - ```Goal#3:``` ***Write 30-blogs for Internship.***
+> - ```Goal#3:``` ***Write 30-blogs for Internship.*** (completed)
 > - ```Goal#4:``` ***Finish up with End-sem and do good.*** (completed)
 
 </br>
 
 > - ```Progress:``` ***I have started with the Connect Four project.***
+> - ```Progress:``` ***I have reached the second level of Connect Four project.***
 
 </br>
 
 > - ```Happy Fact#1:``` ***I just ordered custom marvel boAT earphone 131, a tribute to Black Panther.***
 > - ```Happy Fact#2:``` ***My college is reopening in the first week of March.***
 > - ```Happy Fact#3:``` ***I will recieve my first internship payment on 10 Feb.***
-> - ```Happy Fact#4:``` ***I have completed 13% of my Connect Four Project.***
+> - ```Happy Fact#4:``` ***I have completed 14% of my Connect Four Project.***
 
 
 </br>
