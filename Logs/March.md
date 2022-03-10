@@ -20,7 +20,7 @@
 </br>
 
 > - ```Happy Fact#1:``` ***I have nearly completed Katlin stage-ta,***
-> - ```Happy Fact#2:``` ******
+> - ```Happy Fact#2:``` ***I have kotlin stage-2***
 > - ```Happy Fact#3:``` ******
 > - ```Happy Fact#4:``` ******
 
