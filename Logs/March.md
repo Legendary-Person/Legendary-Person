@@ -19,10 +19,11 @@
 
 </br>
 
-> - ```Happy Fact#1:``` ***I have nearly completed Katlin stage-ta,***
-> - ```Happy Fact#2:``` ***I have kotlin stage-2***
-> - ```Happy Fact#3:``` ******
-> - ```Happy Fact#4:``` ******
+> - ```Happy Fact#1:``` ***I would be recieving merch from LetsUpgrade as an official intern.***
+> - ```Happy Fact#2:``` ***I have sorted out my life hostel and would soon be at full capacity.***
+> - ```Happy Fact#3:``` ***I am practicing maths and other subjects to do good in tests.***
+> - ```Happy Fact#4:``` ***My music speaker would soon reach my hostel.***
+> - ```Happy Fact#4:``` ***Mom will be sending home-made top quality food; my state doesn't have good food.***
 
 
 </br>
