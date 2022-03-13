@@ -143,7 +143,7 @@
 <a href="https://dsckiit.slab.com/posts/rust-the-fastest-growing-language-ef8lndtx">```🔗 Rust— The fastest growing language```</a></br>
 <a href="https://dsckiit.slab.com/posts/multi-threading-absc0wce">```🔗 Multi-Threading```</a></br>
 <a href="https://dsckiit.slab.com/posts/exploring-aosp-azhbq69s">```🔗 Exploring AOSP…```</a></br>
-<a href="https://dsckiit.slab.com/posts/python-gil-no9wbeyw">```🔗 Python GIL```</a>
+<a href="https://dsckiit.slab.com/posts/python-gil-no9wbeyw">```🔗 Python GIL```</a></br>
 <a href="https://dsckiit.slab.com/posts/why-is-python-gil-so-hard-to-work-around-nbwaxiwd">```🔗 Why is Python GIL so hard to work around?```</a>
 
 
