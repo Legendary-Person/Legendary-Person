@@ -29,7 +29,7 @@
 </br>
 
 > - ```Update#1:``` ***The boAT stone grenade is worth the money, low budget, high quality.***
-> - ```Update#2:``` ***I messed up***
+> - ```Update#2:``` ***I messed up I guess.***
 > - ```Update#3:``` ******
 > - ```Update#4:``` ****** 
 
